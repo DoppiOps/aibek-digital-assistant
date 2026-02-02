@@ -1,0 +1,8 @@
+
+{
+  "name": "Aibek - Digital Assistant",
+  "description": "A high-performance communication platform for task solving and consultation, developed using modern web technologies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
