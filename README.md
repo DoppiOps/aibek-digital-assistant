@@ -32,7 +32,7 @@ Loyiha `esm.sh` va standart React muhitida ishlashga moslashtirilgan. Uni o'z qu
    ```
 2. Kerakli kutubxonani o'rnating:
    ```bash
-   npm install
+   cd aibek-digital-assistant && npm install
    ```
 3. .env fayliga o'zingizning Google Ai API kalitingizni qo'ying:
    ```bash
